@@ -1,7 +1,7 @@
 {
   "name": "mlkem-edu",
   "version": "2.3.0",
-  "description": "An ML-KEM/CRYSTALS-KYBER implementation written in TypeScript for various JavaScript runtimes",
+  "description": "An educational fork of ML-KEM/CRYSTALS-KYBER implementation written in TypeScript for various JavaScript runtimes",
   "keywords": [
     "crystals-kyber",
     "ml-kem",
@@ -14,7 +14,7 @@
     "pqc",
     "post-quantum"
   ],
-  "author": "Ajitomi Daisuke",
+  "author": "vdankbaar",
   "homepage": "https://github.com/dajiaji/crystals-kyber-js#readme",
   "repository": {
     "type": "git",
